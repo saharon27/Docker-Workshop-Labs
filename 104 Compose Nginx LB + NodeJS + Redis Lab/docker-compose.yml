@@ -16,6 +16,6 @@ services:
     depends_on:
          - nodeapp
     ports:
-      - "80:80"
+      - "80"
 
   
